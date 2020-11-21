@@ -1,0 +1,27 @@
+.one{
+    color: blue;
+    background-color: crimson;
+    border: 5px solid lightgreen;
+    } 
+
+*{
+    background-color: black;
+}
+
+.two{
+    color: violet;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.main img
+{
+    border: 5px solid lawngreen;
+}
+
+
